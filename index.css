@@ -1,0 +1,159 @@
+.araigne-de-mer {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .anmone-de-mer,
+  .vert {
+    margin: 0;
+  }
+  .anmone-de-mer-container {
+    width: 393px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    min-width: 393px;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .background-1-icon,
+  .language-icon2-1 {
+    position: absolute;
+    top: -769px;
+    left: 0;
+    width: 1960px;
+    height: 2899px;
+    object-fit: cover;
+  }
+  .language-icon2-1 {
+    top: 420px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+    z-index: 1;
+  }
+  .language-icon3-1 {
+    top: 497px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+  }
+  .image1-1-icon,
+  .language-icon1-1,
+  .language-icon3-1 {
+    position: absolute;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .language-icon1-1 {
+    top: 347px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+  }
+  .image1-1-icon {
+    width: calc(100% - 12.7px);
+    top: 5.2px;
+    right: 6.3px;
+    left: 6.4px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 401.5px;
+  }
+  .frame-child,
+  .frame-item,
+  .image1-1-parent {
+    position: absolute;
+    border-radius: var(--br-xs);
+  }
+  .frame-child {
+    top: 0;
+    left: 0;
+    border: 5px solid var(--color-lightblue);
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .frame-item,
+  .image1-1-parent {
+    top: 294px;
+    width: 586px;
+    height: 412px;
+  }
+  .image1-1-parent {
+    left: 292px;
+    border: 5px solid var(--color-lightblue);
+    box-sizing: border-box;
+    z-index: 2;
+  }
+  .frame-item {
+    left: 971px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .background-1-parent {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .page-1 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 753px 318px 143px 388px;
+    box-sizing: border-box;
+    letter-spacing: normal;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-24xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 1525px) {
+    .anmone-de-mer-container {
+      flex: 1;
+    }
+    .page-1 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1225px) {
+    .anmone-de-mer-container {
+      min-width: 100%;
+    }
+    .page-1 {
+      padding-left: 194px;
+      padding-right: 159px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 850px) {
+    .anmone-de-mer-container,
+    .araigne-de-mer {
+      font-size: var(--font-size-15xl);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .anmone-de-mer-container,
+    .araigne-de-mer {
+      font-size: var(--font-size-7xl);
+    }
+    .page-1 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  

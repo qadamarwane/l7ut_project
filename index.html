@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Webpage</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('background.jpg'); /* Background image */
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        
+        .content {
+            text-align: center;
+            padding: 20px;
+            border-radius: 20px;
+        }
+        
+        .content img {
+            width: 400px; /* Adjust width as needed */
+            height: auto;
+            border-radius: 20px;
+            margin: 10px; /* Added margin for spacing */
+            border: 2px solid white; /* Small white border */
+        }
+        
+        .title {
+            margin-top: 10px;
+            font-size: 29px; /* Bigger font size */
+            color: white; /* White color */
+        }
+        
+        .image-wrapper {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .language-icons {
+            position: fixed;
+            left: 20px; /* Adjust left position */
+            top: 50%; /* Adjust top position */
+            transform: translateY(-50%);
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        
+        .language-icons img {
+            width: 50px; /* Adjust width as needed */
+            height: auto;
+            margin-bottom: 10px; /* Added margin for spacing */
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <div class="image-wrapper">
+                <div>
+                    <a href="page2.html"><img src="image1.png" alt="Image 1"></a>
+                    <div class="title">ARAIGNÉE DE MER</div>
+                </div>
+                <div>
+                    <img src="image2.png" alt="Image 2">
+                    <div class="title">ANÉMONE DE MER
+                        VERTE</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="language-icons">
+        <a href="change_language1"><img src="language-icon1.png" alt="Language 1"></a>
+        <a href="change_language2"><img src="language-icon2.png" alt="Language 2"></a>
+        <a href="change_language3"><img src="language-icon3.png" alt="Language 3"></a>
+    </div>
+</body>
+</html>

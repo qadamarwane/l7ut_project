@@ -1,0 +1,522 @@
+.habitat {
+    position: relative;
+    display: inline-block;
+    min-width: 94px;
+    z-index: 1;
+  }
+  .habitat-wrapper {
+    width: 1652px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-inner {
+    height: 57px;
+    width: 57px;
+    position: relative;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .araigne-de-mer1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .araigne-de-mer-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 70px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .maja-squinado-herbst {
+    height: 37px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    z-index: 1;
+  }
+  .g-e-o-g-r-a-p-h-i-c-a-l-i-n-f {
+    width: 532px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: 24px;
+  }
+  .noms-locaux-araigne {
+    height: 37px;
+    position: relative;
+    font-size: var(--font-size-2xl);
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .c-r-a-b-n-a-m-e,
+  .c-r-a-b-n-a-m-e-wrapper {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .c-r-a-b-n-a-m-e {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    gap: 9px;
+    max-width: 100%;
+  }
+  .c-r-a-b-n-a-m-e-wrapper {
+    flex: 1;
+    padding: 218px 0 0;
+    box-sizing: border-box;
+    min-width: 361px;
+  }
+  .c-r-a-b-n-a-m-e-wrapper,
+  .component-parent,
+  .frame-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .component-parent {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 49px;
+  }
+  .frame-wrapper {
+    width: 662px;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 16px;
+    box-sizing: border-box;
+    min-width: 662px;
+  }
+  .vit-au-dessus-des {
+    align-self: stretch;
+    height: 71px;
+    font-size: var(--font-size-4xl);
+    font-weight: 500;
+    color: var(--color-white);
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .la-taille-de,
+  .taille,
+  .vit-au-dessus-des {
+    position: relative;
+    z-index: 1;
+  }
+  .taille {
+    display: inline-block;
+    min-width: 68px;
+  }
+  .la-taille-de {
+    font-size: var(--font-size-4xl);
+    font-weight: 500;
+    color: var(--color-white);
+  }
+  .c-a-r-a-p-a-c-e-s-i-z-e-i-n-f {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+    max-width: 100%;
+  }
+  .alimentation,
+  .se-nourrit-dalgues {
+    position: relative;
+    z-index: 1;
+  }
+  .se-nourrit-dalgues {
+    align-self: stretch;
+    height: 71px;
+    font-size: var(--font-size-4xl);
+    font-weight: 500;
+    color: var(--color-white);
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .g-e-o-g-r-a-p-h-i-c-r-e-g-i-o {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+  .rpartition-gographique {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .mer-mditerrane {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-4xl);
+    font-weight: 500;
+    color: var(--color-white);
+    z-index: 1;
+  }
+  .b-a-c-k-g-r-o-u-n-d-t-e-x-t-f,
+  .l-a-n-g-u-a-g-e-i-c-o-n-f-r-a {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .l-a-n-g-u-a-g-e-i-c-o-n-f-r-a {
+    align-self: stretch;
+    gap: 16px;
+  }
+  .b-a-c-k-g-r-o-u-n-d-t-e-x-t-f {
+    flex: 1;
+    gap: 25.666666666666668px;
+    min-width: 584px;
+    font-size: var(--font-size-7xl);
+    color: var(--color-lightblue);
+  }
+  .frame-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 116.7px;
+    max-width: 100%;
+    font-size: var(--font-size-24xl);
+    color: var(--color-white);
+  }
+  .frame-parent,
+  .page2-inner {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-3xs);
+  }
+  .page2-inner {
+    width: 1721px;
+    flex-direction: row;
+    padding: 0 22px;
+    box-sizing: border-box;
+  }
+  .subtract-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 533.1px;
+    height: 315.3px;
+    z-index: 1;
+  }
+  .les-araignes-de {
+    position: absolute;
+    top: 91px;
+    left: 20px;
+    display: inline-block;
+    width: 408px;
+    z-index: 2;
+  }
+  .p-e-r-i-o-d-i-c-c-h-a-n-g-e-f {
+    height: 315px;
+    width: 533.1px;
+    position: relative;
+    max-width: 100%;
+  }
+  .en-savoir-plus {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button {
+    cursor: pointer;
+    border: 0;
+    padding: 24.5px var(--padding-xl);
+    background-color: rgba(131, 185, 221, 0.6);
+    align-self: stretch;
+    border-radius: 60px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .button:hover {
+    background-color: rgba(79, 133, 171, 0.6);
+  }
+  .l-a-n-g-u-a-g-e-g-a-m-e-i-c-o {
+    height: 141px;
+    width: 405px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .p-e-r-i-o-d-i-c-c-h-a-n-g-e-f-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: 28px;
+    color: #014d86;
+    font-family: var(--font-inter);
+  }
+  .background-1-icon1 {
+    position: absolute;
+    top: -769px;
+    left: 0;
+    width: 1960px;
+    height: 2899px;
+    object-fit: cover;
+  }
+  .image1-1-icon1 {
+    position: absolute;
+    width: calc(100% - 10px);
+    top: 4px;
+    right: 5px;
+    left: 5px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 306px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .i-m-a-g-e-o-b-j-e-c-t-f-r-a-m,
+  .i-m-a-g-e-o-b-j-e-c-t-f-r-a-m-child {
+    position: absolute;
+    border-radius: var(--br-xs);
+    border: 5px solid var(--color-lightblue);
+    box-sizing: border-box;
+  }
+  .i-m-a-g-e-o-b-j-e-c-t-f-r-a-m-child {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .i-m-a-g-e-o-b-j-e-c-t-f-r-a-m {
+    top: 154px;
+    left: 165px;
+    width: 460px;
+    height: 314px;
+    z-index: 2;
+  }
+  .language-icon2-11,
+  .language-icon3-11 {
+    position: absolute;
+    top: 420px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .language-icon3-11 {
+    top: 497px;
+  }
+  .game-iconsposition-marker {
+    position: absolute;
+    top: 187px;
+    left: 729px;
+    width: 56px;
+    height: 56px;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .c-l-a-r-i-t-y-c-u-r-s-o-r-h-a {
+    position: absolute;
+    top: 304px;
+    left: 719px;
+    width: 70.7px;
+    height: 70.7px;
+    object-fit: contain;
+    z-index: 1;
+  }
+  .game-iconsfork-knife-spoon {
+    position: absolute;
+    top: 415px;
+    left: 726px;
+    width: 56px;
+    height: 56px;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .v-e-c-t-o-r-t-w-o-f-r-a-m-e {
+    position: absolute;
+    top: 674px;
+    left: 917px;
+    width: 420px;
+    height: 236px;
+    z-index: 1;
+  }
+  .gisearth-euro-africa-o-icon {
+    position: absolute;
+    top: 560px;
+    left: 726px;
+    width: 61px;
+    height: 61px;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .claritycursor-hand-click-line-icon {
+    position: absolute;
+    top: 890px;
+    left: 1659px;
+    width: 79px;
+    height: 79px;
+    overflow: hidden;
+    z-index: 3;
+  }
+  .language-icon1-11 {
+    position: absolute;
+    top: 347px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .background-1-group {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .page2 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 167px 36px 0 0;
+    box-sizing: border-box;
+    gap: 39px;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-7xl);
+    color: var(--color-lightblue);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 1425px) {
+    .frame-wrapper {
+      flex: 1;
+    }
+    .frame-group {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .p-e-r-i-o-d-i-c-c-h-a-n-g-e-f-parent {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 825px) {
+    .araigne-de-mer1 {
+      font-size: var(--font-size-15xl);
+    }
+    .araigne-de-mer-wrapper {
+      padding-left: var(--padding-16xl);
+      padding-right: var(--padding-16xl);
+      box-sizing: border-box;
+    }
+    .c-r-a-b-n-a-m-e-wrapper {
+      min-width: 100%;
+    }
+    .component-parent {
+      flex-wrap: wrap;
+      gap: 49px 24px;
+    }
+    .b-a-c-k-g-r-o-u-n-d-t-e-x-t-f,
+    .frame-wrapper {
+      min-width: 100%;
+    }
+    .frame-group {
+      gap: 116.7px 58px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .habitat {
+      font-size: var(--font-size-2xl);
+    }
+    .araigne-de-mer1 {
+      font-size: var(--font-size-7xl);
+    }
+    .maja-squinado-herbst {
+      font-size: 19px;
+    }
+    .noms-locaux-araigne {
+      font-size: 17px;
+    }
+    .c-r-a-b-n-a-m-e-wrapper {
+      padding-top: 142px;
+      box-sizing: border-box;
+    }
+    .vit-au-dessus-des {
+      font-size: var(--font-size-lg);
+    }
+    .taille {
+      font-size: var(--font-size-2xl);
+    }
+    .la-taille-de {
+      font-size: var(--font-size-lg);
+    }
+    .alimentation {
+      font-size: var(--font-size-2xl);
+    }
+    .se-nourrit-dalgues {
+      font-size: var(--font-size-lg);
+    }
+    .rpartition-gographique {
+      font-size: var(--font-size-2xl);
+    }
+    .mer-mditerrane {
+      font-size: var(--font-size-lg);
+    }
+    .frame-group {
+      gap: 116.7px 29px;
+    }
+    .les-araignes-de {
+      font-size: 22px;
+    }
+    .page2 {
+      gap: 19px 39px;
+    }
+  }
+  
