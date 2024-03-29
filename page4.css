@@ -1,0 +1,493 @@
+.background-1-icon3 {
+    position: absolute;
+    top: -769px;
+    left: 0;
+    width: 1960px;
+    height: 2899px;
+    object-fit: cover;
+  }
+  .language-icon1-13,
+  .language-icon2-13,
+  .language-icon3-13 {
+    position: absolute;
+    top: 420px;
+    left: 22px;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .language-icon1-13,
+  .language-icon3-13 {
+    top: 497px;
+  }
+  .language-icon1-13 {
+    top: 347px;
+  }
+  .frame-main {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .l7ut-child {
+    align-self: stretch;
+    height: 259px;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .araigne-de-mer2,
+  .l7ut-child {
+    position: relative;
+  }
+  .araigne-de-mer-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut,
+  .l7ut-item {
+    align-self: stretch;
+  }
+  .l7ut {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-11xl);
+    z-index: 1;
+  }
+  .l7ut-item {
+    height: 259px;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .araigne-de-mer3,
+  .l7ut-item {
+    position: relative;
+  }
+  .araigne-de-mer-frame,
+  .l7ut-parent,
+  .l7ut1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .araigne-de-mer-frame {
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut-parent,
+  .l7ut1 {
+    flex-direction: column;
+  }
+  .l7ut1 {
+    align-self: stretch;
+    flex: 1;
+    gap: var(--gap-11xl);
+    z-index: 1;
+  }
+  .l7ut-parent {
+    height: 719px;
+    width: 376px;
+    padding: 0 var(--padding-8xs) 0 0;
+    box-sizing: border-box;
+    gap: 75px;
+    max-width: 100%;
+  }
+  .l7ut-inner {
+    align-self: stretch;
+    height: 259px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .anmone-de-mer1,
+  .vert1 {
+    margin: 0;
+  }
+  .araigne-de-mer-container1 {
+    width: 247px;
+    position: relative;
+    display: inline-block;
+  }
+  .frame-div,
+  .l7ut2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-div {
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut2 {
+    align-self: stretch;
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    z-index: 1;
+  }
+  .rectangle-icon {
+    align-self: stretch;
+    height: 259px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .anmone-de-mer2,
+  .vert2 {
+    margin: 0;
+  }
+  .araigne-de-mer-container2 {
+    width: 247px;
+    position: relative;
+    display: inline-block;
+  }
+  .araigne-de-mer-wrapper1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut3 {
+    align-self: stretch;
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    z-index: 1;
+  }
+  .l7ut-group,
+  .l7ut-wrapper,
+  .l7ut3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .l7ut-wrapper {
+    align-self: stretch;
+    flex: 1;
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .l7ut-group {
+    height: 752px;
+    width: 376px;
+    flex-direction: column;
+    gap: var(--gap-23xl);
+    text-align: center;
+  }
+  .l7ut-child1 {
+    align-self: stretch;
+    height: 259px;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .araigne-de-mer4,
+  .l7ut-child1 {
+    position: relative;
+  }
+  .araigne-de-mer-wrapper2,
+  .l7ut4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .araigne-de-mer-wrapper2 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut4 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    min-width: 241px;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .l7ut-child2 {
+    align-self: stretch;
+    height: 259px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .anmone-de-mer3,
+  .vert3 {
+    margin: 0;
+  }
+  .araigne-de-mer-container3 {
+    width: 247px;
+    position: relative;
+    display: inline-block;
+  }
+  .araigne-de-mer-wrapper3,
+  .l7ut5 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .araigne-de-mer-wrapper3 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut5 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    min-width: 241px;
+    max-width: 100%;
+    z-index: 1;
+    text-align: center;
+  }
+  .l7ut-child3,
+  .l7ut-container {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .l7ut-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-26xl);
+  }
+  .l7ut-child3 {
+    height: 259px;
+    border-radius: var(--br-11xl);
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .araigne-de-mer5,
+  .l7ut-child3 {
+    position: relative;
+  }
+  .araigne-de-mer-wrapper4,
+  .l7ut6 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .araigne-de-mer-wrapper4 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut6 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    min-width: 241px;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .l7ut-child4 {
+    align-self: stretch;
+    height: 259px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .anmone-de-mer4,
+  .vert4 {
+    margin: 0;
+  }
+  .araigne-de-mer-container4 {
+    width: 247px;
+    position: relative;
+    display: inline-block;
+  }
+  .araigne-de-mer-wrapper5,
+  .l7ut7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .araigne-de-mer-wrapper5 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-43xl);
+  }
+  .l7ut7 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-11xl);
+    min-width: 241px;
+    max-width: 100%;
+    z-index: 1;
+    text-align: center;
+  }
+  .l7ut-parent1 {
+    align-self: stretch;
+    flex-direction: row;
+    gap: var(--gap-26xl);
+    max-width: 100%;
+  }
+  .frame-container,
+  .l7ut-parent1,
+  .page-4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-container {
+    width: 787px;
+    flex-direction: column;
+    gap: var(--gap-23xl);
+    max-width: 100%;
+  }
+  .page-4 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    overflow: hidden;
+    flex-direction: row;
+    padding: 119px 48px 129px 111px;
+    box-sizing: border-box;
+    gap: 40px;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-8xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 1700px) {
+    .page-4 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1300px) {
+    .page-4 {
+      padding-left: 55px;
+      padding-right: 24px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .l7ut-container,
+    .l7ut-parent1 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .araigne-de-mer2 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-container {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .araigne-de-mer3 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-frame {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .l7ut-parent {
+      gap: 37px 75px;
+    }
+    .araigne-de-mer-container1 {
+      font-size: var(--font-size-3xl);
+    }
+    .frame-div {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .araigne-de-mer-container2 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-wrapper1 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .l7ut-group {
+      gap: 21px 42px;
+    }
+    .araigne-de-mer4 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-wrapper2 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .araigne-de-mer-container3 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-wrapper3 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .l7ut-container {
+      gap: 45px 22px;
+    }
+    .araigne-de-mer5 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-wrapper4 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .araigne-de-mer-container4 {
+      font-size: var(--font-size-3xl);
+    }
+    .araigne-de-mer-wrapper5 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .l7ut-parent1 {
+      gap: 45px 22px;
+    }
+    .frame-container {
+      gap: 21px 42px;
+    }
+    .page-4 {
+      gap: 40px 20px;
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  
